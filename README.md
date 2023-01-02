@@ -1,7 +1,7 @@
 # Archived
 
 I no longer use Gitpod. I moved on to using Github Codespaces since it's more compatible wth Copilot and other extensions.
-Also please read: [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)) before deciding to use any VSCode backed online editors.
+Also please read: [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/) before deciding to use any VSCode backed online editors.
 
 
 # gitpod-empty
